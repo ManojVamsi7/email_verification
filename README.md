@@ -1,4 +1,4 @@
-# Email Verification Assignment (MERN) - Updated
+# Email Verification Assignment (MERN) 
 
 This project implements email verification using link or OTP.
 
